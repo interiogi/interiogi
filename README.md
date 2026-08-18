@@ -304,7 +304,7 @@ https://github.com/interiogi
 
 **DEV.to — documentação do raciocínio e da aprendizagem**
 
-_Link público será inserido após confirmação definitiva do perfil._
+https://dev.to/interiogi
 
 ---
 
