@@ -5,8 +5,8 @@
 <h1 align="center">🌎 INTERIOGI</h1>
 
 <p align="center">
-  <strong>Identidade digital de Rodrigo Ramos Pessoa</strong><br>
-  Tecnologia Aplicada ao Turismo · Tecnologia Centrada no Humano
+  <strong>Ecossistema de tecnologia centrada no humano aplicada ao turismo/turista.</strong><br>
+  Software · Dados · IA · Automação · Experiência
 </p>
 
 <p align="center">
@@ -14,6 +14,20 @@
 </p>
 
 ---
+
+## ♾️ Identidade institucional
+
+**Interiogi é um ecossistema de tecnologia centrada no humano aplicada ao turismo/turista.**
+
+- 🧬 Humano: o centro.
+- ⚙️ Tecnologia: o meio.
+- 🌎 Turismo: o campo de aplicação.
+- 🧳 Turista: o protagonista da experiência.
+- ♾️ Ecossistema: a estrutura de integração.
+
+Integração que transforma vidas, territórios e negócios.
+
+A identidade digital e a trajetória de aprendizagem descritas a seguir são dimensões complementares da construção do ecossistema, não uma definição institucional concorrente.
 
 ## 🧬 Identidade digital
 
@@ -440,7 +454,7 @@ O objetivo é construir uma presença técnica **coerente, documentada e verific
 
 <p align="center">
   <strong>🌎 INTERIOGI</strong><br>
-  Identidade digital de Rodrigo Ramos Pessoa<br>
-  Tecnologia Aplicada ao Turismo · Tecnologia Centrada no Humano<br>
+  Ecossistema de tecnologia centrada no humano aplicada ao turismo/turista.<br>
+  Tecnologia a serviço das pessoas<br>
   Ubatuba · São Paulo · Brasil
 </p>
