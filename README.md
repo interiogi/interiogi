@@ -37,7 +37,11 @@ Este GitHub existe para documentar essa evolução de forma pública, rastreáve
 
 ## 🌎 Apresentação do Interiogi
 
-O **Interiogi** é um ecossistema em desenvolvimento que integra:
+O Interiogi é um ecossistema de tecnologia centrada no humano aplicada ao turismo/turista.
+
+[Conheça a Jornada do Interiogi](./JORNADA.md)
+
+O ecossistema integra:
 
 - pessoas;
 - tecnologia;
